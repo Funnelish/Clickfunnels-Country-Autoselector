@@ -12,10 +12,12 @@
  *         _CHANGED : May 17, 2017	 _By : Yassine Y.
  */
  
-<script>
+<script type="text/javascript">
   var COUNTRY_CODE = "US";
   var COUNTRY_BOX = "input-45667";
+</script>
 
+<script type="text/javascript">
   window.onload = function() {
     var x = document.getElementById(COUNTRY_BOX);
     var input = x.getElementsByTagName("input")[0];
