@@ -12,12 +12,9 @@
  *         _CHANGED : May 17, 2017	 _By : Yassine Y.
  */
  
-<script>
   var COUNTRY_CODE = "US";
   var HIDE_COUNTRY_BOX = true;
-</script>
 
-<script type="text/javascript">
   window.onload = function() {
     var country_box = document.getElementsByName("shipping_country");
     if (country_box == null || country_box.length == 0)
@@ -34,4 +31,3 @@
     //var input = x.getElementsByTagName("input")[0];
     //var x = document.getElementById(COUNTRY_BOX);
   };
-</script>
