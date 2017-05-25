@@ -7,7 +7,7 @@ It auto selects a country of your choice, and hides it from your visitors to you
 You can find out more information about using this plugin at [Clickfunnels Country Auto-Selector - Plugin](https://funnelish.com/t/plugin-free-clickfunnels-country-autoselector/81).
 
 ## Author
-This plugin was made by Yassine Y. @ Funnelish.com.
+This plugin was made by Yassine Y. @ [Funnelish.com](https://funnelish.com).
 
 ## License
 This plugin is licensed under MIT license. Feel free to use this plugin (for free) for private or commercial use.
